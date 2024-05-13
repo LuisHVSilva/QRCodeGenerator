@@ -18,6 +18,7 @@ def input_check(field, field_name):
 # -----------------------------------------------
 # Main
 
+
 print("Qual tipo de QR Code gostaria de criar?")
 print("1 - Wifi")
 
